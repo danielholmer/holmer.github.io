@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Holmer"
-#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  avatar           : "assets/images/me.jpg"
   bio              : "Cognitive science student and research assistant @ Linköping University"
   location         : "Linköping, Sweden"
   links:
